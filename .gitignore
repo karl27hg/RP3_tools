@@ -1,0 +1,7 @@
+# VS code option
+.vscode/
+
+# object | out | so files
+*.o
+*.out
+*.so
